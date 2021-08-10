@@ -32,6 +32,7 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - Vanilla Javascript
+- DOM Manipulation
 
 ## Author
 
