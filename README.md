@@ -16,6 +16,7 @@ Users should be able to:
 - Play the game
 - Restart the game
 - Keep count of high score
+- Keep count of current score
 
 ### Screenshot
 
