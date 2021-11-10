@@ -15,6 +15,7 @@ Users should be able to:
 
 - Play the game
 - Restart the game
+- Keep count of high score
 
 ### Screenshot
 
@@ -29,10 +30,9 @@ Users should be able to:
 ### Built with
 
 - Semantic HTML5
-- CSS custom properties
+- CSS
 - Flexbox
-- Vanilla Javascript
-- DOM Manipulation
+- Javascript
 
 ## Author
 
