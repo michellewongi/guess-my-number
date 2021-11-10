@@ -32,7 +32,6 @@ Users should be able to:
 
 - Semantic HTML5
 - CSS
-- Flexbox
 - Javascript
 
 ## Author
