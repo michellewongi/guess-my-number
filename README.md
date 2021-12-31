@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://mw3981.github.io/guess-my-number/]
+- Live Site URL: [https://michellewongi.github.io/guess-my-number/]
 
 ## My process
 
